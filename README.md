@@ -12,7 +12,7 @@
 <img align="left" alt="Plotly" width="40px" src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4"/>
 <img align="left" alt="XGBoost" width="40px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"/>
 <img align="left" alt="Scikit-learn" width="40px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png"/>
-<img align="left" alt="Statsmodels" width="40px" src="https://avatars.githubusercontent.com/u/54715144?s=200&v=4"/>
+<img align="left" alt="Statsmodels" width="40px" src="https://raw.githubusercontent.com/statsmodels/statsmodels/refs/heads/main/docs/source/images/statsmodels-logo-v2-horizontal.svg"/>
 <img align="left" alt="Tableau" width="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/>
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
