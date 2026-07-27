@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gokul Ramanan  
 
-🎓 Sophomore @ Northeastern University | Data Science & Mathematics (Khoury College)  
+🎓 Junior @ Northeastern University | Data Science & Mathematics (Khoury College)  
 📊 Passionate about **data science, sports analytics, finance, and machine learning**  
-⚡ Currently a **Data Branch Member at Generate** (NU’s product development club)  
+⚡ Currently a **Data Engineer at Generate & Prev Developer at Baltimore Orioles**  
 
 ## 🛠 Technologies & Tools  
 
