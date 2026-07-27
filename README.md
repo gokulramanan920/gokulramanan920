@@ -21,10 +21,10 @@
 <br clear="left"/>
 
 ## 🛠 Tech Stack  
-**Languages:** Python, SQL, Java, HTML, R, Javascript
-**ML/Data Science:** Scikit-learn, XGBoost, CatBoost, Elastic Net, Ensemble Modeling, GMM Clustering, Data Drift Detection, SBERT Transformers, Gemini API, Statsmodels, Time Series Analysis (ARIMA, SARIMA, LOWESS), Model Evaluation (MAPE, R², BIC), Pandas, NumPy, Plotly/Seaborn/Panel
-**Frameworks/Tools:** Django, React, FastAPI, Git, Docker, Alembic, Tableau, PowerBI, Linux (Ubuntu)
-**Focus Areas:** Predictive Modeling, ML Engineering, MLOps, Data Visualization, Dashboard Development, Time Series Analysis
+**Languages:** Python, SQL, Java, HTML, R, Javascript. 
+**ML/Data Science:** Scikit-learn, XGBoost, CatBoost, Elastic Net, Ensemble Modeling, GMM Clustering, Data Drift Detection, SBERT Transformers, Gemini API, Statsmodels, Time Series Analysis (ARIMA, SARIMA, LOWESS), Model Evaluation (MAPE, R², BIC), Pandas, NumPy, Plotly/Seaborn/Panel. 
+**Frameworks/Tools:** Django, React, FastAPI, Git, Docker, Alembic, Tableau, PowerBI, Linux (Ubuntu). 
+**Focus Areas:** Predictive Modeling, ML Engineering, MLOps, Data Visualization, Dashboard Development, Time Series Analysis. 
 
 ## 🚀 Featured Projects  
 
