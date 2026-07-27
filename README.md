@@ -31,7 +31,7 @@
 - Built a full-stack ML pipeline with two interactive dashboards — a prediction dashboard (forecasting cricketers’ career runs to 2030) and an exploratory dashboard (top-85 batters career progression) — using Panel, Plotly, and deployed publicly on HuggingFace via Docker, controlled through a custom backend API.
 - Engineered a hybrid modeling pipeline:
     - Designed a custom weighted batting average model, outperforming standard ML baselines (R² = 0.87, MAPE = 0.18) across 25 years of backtesting.
-    - Applied XGBoost models to predict matches and innings played (R² = 0.99, MAPE = 0.02) and integrated outputs to forecast career runs.
+    - Applied XGBoost models to predict matches and innings played and integrated outputs to forecast career runs.
 - Delivered forecasts for the next 5 years, enabling cricket analysts, selectors, and fans to access real-time projections with career-aligned visualizations and statistical trendline insights.  
 - [Cricket Career Prediction Dashboard](https://huggingface.co/spaces/GokulRamanan/gokul-ml-prediction-runs-dashboard) | [Top 85 Cricket Batters Dashboard](https://huggingface.co/spaces/GokulRamanan/top-85-international-cricket-batters-run-progression) | [7-min Demo Video](https://drive.google.com/file/d/1e6wzfwKlAJbHXPc1pYVNUSrnmD0yu9g-/view?usp=sharing)
 
