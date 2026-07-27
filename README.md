@@ -21,15 +21,14 @@
 <br clear="left"/>
 
 ## 🛠 Tech Stack  
-**Languages:** Python, SQL, Java, HTML, R, Javascript 
-
-**Frameworks/Tools:** Django, React, FastAPI, Git, Docker, Alembic, Tableau, PowerBI, Linux (Ubuntu)   
-**ML/Data Science:** Scikit-learn, XGBoost, CatBoost, Elastic Net, Ensemble Modeling, GMM Clustering, Data Drift Detection, SBERT Transformers, Gemini API, Statsmodels, Time Series Analysis (ARIMA, SARIMA, LOWESS), Model Evaluation (MAPE, R², BIC), Pandas, NumPy, Plotly/Seaborn/Panel  
-**Focus Areas:** Predictive Modeling, ML Engineering, MLOps, Data Visualization, Dashboard Development, Time Series Analysis  
+**Languages:** Python, SQL, Java, HTML, R, Javascript
+**ML/Data Science:** Scikit-learn, XGBoost, CatBoost, Elastic Net, Ensemble Modeling, GMM Clustering, Data Drift Detection, SBERT Transformers, Gemini API, Statsmodels, Time Series Analysis (ARIMA, SARIMA, LOWESS), Model Evaluation (MAPE, R², BIC), Pandas, NumPy, Plotly/Seaborn/Panel
+**Frameworks/Tools:** Django, React, FastAPI, Git, Docker, Alembic, Tableau, PowerBI, Linux (Ubuntu)
+**Focus Areas:** Predictive Modeling, ML Engineering, MLOps, Data Visualization, Dashboard Development, Time Series Analysis
 
 ## 🚀 Featured Projects  
 
-### [GDP Forecasting Platform](https://github.com/gokulramanan920/gdp_forecasting_platform)-)
+### [GDP Forecasting Platform](https://github.com/gokulramanan920/gdp_forecasting_platform)
 - Built an ensemble CatBoost/XGBoost GDP forecaster (4-fold time-series CV, R² = 0.934, 10.6% MAPE on a 3-year holdout, 20 countries) with K-Means cohort segmentation and empirical 90% confidence intervals
 - Deployed an ETL + retraining pipeline ingesting 19 World Bank indicators with mean-reverting extrapolation, upserting versioned predictions into a 7-table PostgreSQL schema via automated cron jobs
 - Built a full-stack GDP dashboard (React/Plotly on Vercel, FastAPI on Render, Supabase Postgres) with lasso-select exploration, rolling CAGR computation, LOWESS smooth curve, and multi-country filtering
