@@ -21,11 +21,22 @@
 <br clear="left"/>
 
 ## 🛠 Tech Stack  
-**Languages:** Python, SQL, Java, HTML  
-**Libraries/Tools:** Pandas, NumPy, Plotly, Seaborn, Panel, XGBoost, Scikit-learn, Statsmodels, Tableau, Docker, Git  
-**Focus Areas:** Predictive Modeling, Data Visualization, Dashboard Development, ML Engineering, APIs, Time Series Analysis  
+**Languages:** Python, SQL, Java, HTML, R, Javascript 
+**Frameworks/Tools:** Django, React, FastAPI, Git, Docker, Alembic, Tableau, PowerBI, Linux (Ubuntu)   
+**ML/Data Science:** Scikit-learn, XGBoost, CatBoost, Elastic Net, Ensemble Modeling, GMM Clustering, Data Drift Detection, SBERT Transformers, Gemini API, Statsmodels, Time Series Analysis (ARIMA, SARIMA, LOWESS), Model Evaluation (MAPE, R², BIC), Pandas, NumPy, Plotly/Seaborn/Panel  
+**Focus Areas:** Predictive Modeling, ML Engineering, MLOps, Data Visualization, Dashboard Development, Time Series Analysis  
 
 ## 🚀 Featured Projects  
+
+### [GDP Forecasting Platform](https://github.com/gokulramanan920/gdp_forecasting_platform)-)
+- Built an ensemble CatBoost/XGBoost GDP forecaster (4-fold time-series CV, R² = 0.934, 10.6% MAPE on a 3-year holdout, 20 countries) with K-Means cohort segmentation and empirical 90% confidence intervals
+- Deployed an ETL + retraining pipeline ingesting 19 World Bank indicators with mean-reverting extrapolation, upserting versioned predictions into a 7-table PostgreSQL schema via automated cron jobs
+- Built a full-stack GDP dashboard (React/Plotly on Vercel, FastAPI on Render, Supabase Postgres) with lasso-select exploration, rolling CAGR computation, LOWESS smooth curve, and multi-country filtering
+
+### [Unsprawl](https://github.com/GenerateNU/unsprawl)
+- Developed Unsprawl, an AI-powered workflow analysis tool using Gemini, Agentic AI, and pattern recognition to identify task redundancies across Slack, Jira, and Trello API data, aiming to reduce organizational inefficiencies by 30%
+- Engineered backend data pipelines with PostgreSQL, Vector Embeddings, Gemini API, and SBERT transformers to automate duplicate task detection and accelerate project delivery 
+- Implemented slack task detection models using Logistic Regression + embeddings, achieving 97.4% accuracy, significantly reducing downstream Gemini token usage costs 
 
 ### [Cricket Career Prediction Model & Dashboard](https://github.com/gokulramanan920/Cricket-Prediction-Model-Batters-)  
 - Built a full-stack ML pipeline with two interactive dashboards — a prediction dashboard (forecasting cricketers’ career runs to 2030) and an exploratory dashboard (top-85 batters career progression) — using Panel, Plotly, and deployed publicly on HuggingFace via Docker, controlled through a custom backend API.
@@ -34,10 +45,6 @@
     - Applied XGBoost models to predict matches and innings played and integrated outputs to forecast career runs.
 - Delivered forecasts for the next 5 years, enabling cricket analysts, selectors, and fans to access real-time projections with career-aligned visualizations and statistical trendline insights.  
 - [Cricket Career Prediction Dashboard](https://huggingface.co/spaces/GokulRamanan/gokul-ml-prediction-runs-dashboard) | [Top 85 Cricket Batters Dashboard](https://huggingface.co/spaces/GokulRamanan/top-85-international-cricket-batters-run-progression) | [7-min Demo Video](https://drive.google.com/file/d/1e6wzfwKlAJbHXPc1pYVNUSrnmD0yu9g-/view?usp=sharing)
-
-### [Dunk Detector](https://github.com/estebanpuyanas/Dunk-Detector)  
-- Designed a **basketball scouting platform** using MySQL, Flask, and Streamlit  
-- Improved scouting workflows with real-time visualization + admin tools, containerized with Docker  
 
 ### [IPL Media Rights vs Salary Cap Analysis](https://medium.com/@ramanang711/comparing-the-ipls-media-rights-and-salary-cap-to-other-professional-leagues-worldwide-9c6efc617218) 
 - Independently authored a 13-page research paper examining the disproportionate growth between the IPL’s media rights and player salary cap, benchmarking trends against other global sports leagues.
